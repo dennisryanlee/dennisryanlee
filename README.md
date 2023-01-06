@@ -98,7 +98,5 @@
 
 </div>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Eugene0920.Eugene0920" />
-<img align="right" src="https://img.shields.io/github/followers/Eugene0920?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true">
